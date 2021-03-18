@@ -17,5 +17,12 @@ body{
 }
 header h1{
     color: #efefef;
-    font-size: 3.2rem;
+    font-size: 3rem;
+    padding-top: 1rem;
+    text-align: center;
+}
+product-card {
+    --width: 90%;
+    --primary-color: #5a6cb2;
+    --secondary-color: #46538a;
 }
